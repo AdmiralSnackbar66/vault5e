@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-World/Strixhaven.md",
+                "file": "1-Party/Example Party 1/Example Party 1 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Strixhaven"
+              "title": "Example Party 1 1"
             }
           }
         ]
@@ -199,8 +199,14 @@
   },
   "active": "20ec2c6ae875ae7c",
   "lastOpenFiles": [
+    "1-Party/Example Party 2/Example Party 2.md",
+    "1-Party/Example Party 1/Example Party 1 1.md",
+    "1-Party/Example Party 1/Example Party 1.md",
+    "1-Party/Strixhaven Party/Elvis Parsley.md",
+    "2-World/Lampoteuo/Lampoteuo City/Lampoteuo City.md",
+    "2-World/Strixhaven/Strixhaven.md",
+    "1-Party/Strixhaven Party",
     "1-DM Toolkit/DM Board.md",
-    "2-World/Strixhaven.md",
     "2-World/Strixhaven",
     "1-Party/Example Party 2/Jane.md",
     "1-DM Toolkit/Home.md",
