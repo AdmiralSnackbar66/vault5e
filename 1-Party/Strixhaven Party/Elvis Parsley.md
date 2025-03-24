@@ -1,8 +1,8 @@
 ---
 obsidianUIMode: preview
-NoteIcon: npc
+NoteIcon: player
 NoteStatus: New
-char_location: "[[2-World/Lampoteuo/Lampoteuo City/Lampoteuo City.md|Lampoteuo City]]"
+char_location:
 ---
 
 

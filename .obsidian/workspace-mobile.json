@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-Party/Strixhaven Party/Strixhaven Party.md",
+                "file": "1-Party/Strixhaven Party/Elvis Parsley.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Strixhaven Party"
+              "title": "Elvis Parsley"
             }
           }
         ]
@@ -112,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "1-Party/Strixhaven Party/Strixhaven Party.md",
+            "file": "1-Party/Strixhaven Party/Elvis Parsley.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -199,10 +199,11 @@
   },
   "active": "20ec2c6ae875ae7c",
   "lastOpenFiles": [
-    "1-Party/Example Party 2/Example Party 2.md",
     "1-Party/Strixhaven Party/Strixhaven Party.md",
-    "1-Party/Example Party 1/Example Party 1.md",
     "1-Party/Strixhaven Party/Elvis Parsley.md",
+    "1-Party/Example Party 1/Bob.md",
+    "1-Party/Example Party 2/Example Party 2.md",
+    "1-Party/Example Party 1/Example Party 1.md",
     "2-World/Lampoteuo/Lampoteuo City/Lampoteuo City.md",
     "2-World/Strixhaven/Strixhaven.md",
     "1-Party/Strixhaven Party",
