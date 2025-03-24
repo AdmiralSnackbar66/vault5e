@@ -11,10 +11,14 @@
             "id": "20ec2c6ae875ae7c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "2-World/Arcavios/Arcavios.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Arcavios"
             }
           }
         ]
