@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-World/Arcavios/Arcavios.md",
+                "file": "2-World/Arcavios/Strixhaven University.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Arcavios"
+              "title": "Strixhaven University"
             }
           }
         ]
@@ -197,7 +197,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dfe55cf897d09775",
+  "active": "20ec2c6ae875ae7c",
   "lastOpenFiles": [
     "2-World/Arcavios/Arcavios.md",
     "2-World/Strixhaven University.md",
