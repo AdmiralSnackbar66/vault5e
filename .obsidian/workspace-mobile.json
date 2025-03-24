@@ -11,14 +11,10 @@
             "id": "20ec2c6ae875ae7c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2-World/Strixhaven/Strixhaven.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Strixhaven"
+              "title": "New tab"
             }
           }
         ]
@@ -197,20 +193,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dfe55cf897d09775",
+  "active": "20ec2c6ae875ae7c",
   "lastOpenFiles": [
+    "2-World/Lampoteuo/Lampoteuo City/Noble District/Lucky Grain Inn/Lucky Grain Inn.md",
+    "2-World/Arcavios/Arcavios.md",
     "2-World/Lampoteuo/Lampoteuo.md",
-    "2-World/Strixhaven/Strixhaven University",
+    "2-World/Arcavios/Strixhaven University",
     "1-Party/Strixhaven Party/Elvis Parsley.md",
     "1-Party/Strixhaven Party/Strixhaven Party.md",
     "1-Party/Example Party 1/Bob.md",
     "1-Party/Example Party 2/Example Party 2.md",
     "1-Party/Example Party 1/Example Party 1.md",
     "2-World/Lampoteuo/Lampoteuo City/Lampoteuo City.md",
-    "2-World/Strixhaven/Strixhaven.md",
     "1-Party/Strixhaven Party",
     "1-DM Toolkit/DM Board.md",
-    "2-World/Strixhaven",
+    "2-World/Arcavios",
     "1-Party/Example Party 2/Jane.md",
     "1-DM Toolkit/Home.md",
     "0-Obsidian TTRPG Tutorial/0-Obsidian TTRPG Tutorial.md"
