@@ -1,0 +1,325 @@
+{
+  "main": {
+    "id": "35dc58889efc7af6",
+    "type": "split",
+    "children": [
+      {
+        "id": "43603b4f4e92f907",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "743fb8fb740901ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "z_Templates/4_Markdown/Insert Map (Simplified Template).md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Insert Map (Simplified Template)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ef2fa061dc384dbb",
+    "type": "split",
+    "children": [
+      {
+        "id": "776915f0f047e046",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2911de48d50d504c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f7191f1a02d83b6c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6da38734e1b60552",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "2e6355ae312b2c82",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-DM Toolkit/DnD5e-SideScreen-2014.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "DnD5e-SideScreen-2014"
+            }
+          },
+          {
+            "id": "f6ef017cc52d2e49",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1-DM Toolkit/DM Board.md",
+                "mode": "preview",
+                "source": true
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "DM Board"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 395.5
+  },
+  "right": {
+    "id": "4376769ea3073bd6",
+    "type": "split",
+    "children": [
+      {
+        "id": "09384058bb1c4e72",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "01866bcbc2fd8a19",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1-DM Toolkit/Home.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Home"
+            }
+          },
+          {
+            "id": "505cdf32bf6b016b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "0-Scratch Notes/New World.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from New World"
+            }
+          },
+          {
+            "id": "e0476cfc571d360e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "734965fc2bb6a962",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1-DM Toolkit/Home.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Home"
+            }
+          },
+          {
+            "id": "89c85e720490d000",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "082d00d22d181097",
+            "type": "leaf",
+            "state": {
+              "type": "help-mate",
+              "state": {},
+              "icon": "life-buoy",
+              "title": "HelpMate"
+            }
+          },
+          {
+            "id": "1d54d43c1cb242fe",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "bb21e6fb9beae31a",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
+          },
+          {
+            "id": "c8c0bd3a84d4d5f1",
+            "type": "leaf",
+            "state": {
+              "type": "MAIN_VIEW",
+              "state": {},
+              "icon": "srt-ribbon",
+              "title": "Solo RPG Toolkit"
+            }
+          },
+          {
+            "id": "d2b8e91a0b4aa27a",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "dices",
+              "title": "Dice Tray"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 435.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "command-palette:Open command palette": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "helpmate:HelpMate": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-custom-frames:Open Obsidian Forum": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian-import-json:JSON/CSV Importer": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "obsidian-kanban:Create new board": false,
+      "solo-rpg-toolkit:Solo RPG Toolkit": false,
+      "obsidian42-brat:BRAT": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "743fb8fb740901ff",
+  "lastOpenFiles": [
+    "0-Scratch Notes/Add Random Notes Here.md",
+    "0-Scratch Notes/Random Dungeon.md",
+    "z_Templates/TemplateNPC.md",
+    "z_Assets/download 1.gif",
+    "1-DM Toolkit/Travel Calculator.md",
+    "2-World/Ruins of The Twilight Palace.md",
+    "2-World/Lampoteuo/The Wound/The Wound.md",
+    "2-World/Lampoteuo/Lampoteuo City/Lampoteuo City.md",
+    "2-World/Lampoteuo/Creepers Cave/Creepers Cave.md",
+    "2-World/Lampoteuo/Lampoteuo.md",
+    "2-World/Logger's Camp.md",
+    "2-World/New Home Town.md",
+    "2-World/Test.md",
+    "z_Templates/TemplateSettlement.md",
+    "1-Party/Example Party 1/Bob.md",
+    "2-Campaign/Quests/Warn the Midwife.md",
+    "2-Campaign/Quests/Beat the Goblin.md",
+    "z_Templates/How To Create New Templates.md",
+    "z_Templates/Text Generator Templates/Session Summary.md",
+    "z_Templates/Text Generator Templates/Generate Weaponry.md",
+    "z_Templates/Text Generator Templates/Generate Spell Book.md",
+    "z_Templates/Text Generator Templates/Generate Sly Flourish Adventure.md",
+    "z_Templates/Text Generator Templates/Generate Random Table.md",
+    "z_Templates/Text Generator Templates/Generate General Store.md",
+    "z_Templates/Text Generator Templates/Generate Inn.md",
+    "z_Templates/Text Generator Templates/Generate Job Board.md",
+    "z_Templates/Text Generator Templates/Generate Magic Store.md",
+    "z_Templates/Text Generator Templates",
+    "z_Assets/download.gif",
+    "z_Assets/main.js",
+    "2-World/Lampoteuo/The Screaming Tree",
+    "3-Mechanics/CLI/books/players-handbook-2024/img/credits3.webp",
+    "3-Mechanics/CLI/books/players-handbook-2024/img/credits2.webp",
+    "3-Mechanics/CLI/books/players-handbook-2024/img/credits.webp",
+    "3-Mechanics/CLI/books/players-handbook-2024/img/246-12-001-dungeon-border.webp",
+    "3-Mechanics/CLI/books/players-handbook-2024/img/231-10-001-the-multiverse.webp",
+    "3-Mechanics/CLI/books/players-handbook-2024/img/183-08-003-areas-of-effect.webp",
+    "3-Mechanics/CLI/books/players-handbook-2024/img/182-08-002-aasimar-wizard.webp",
+    "3-Mechanics/CLI/books/players-handbook-2024/img/181-08-001-jallarzi-mordenkainen-bigby.webp",
+    "3-Mechanics/CLI/books/players-handbook-2024/img",
+    "3-Mechanics/CLI/books/dungeon-masters-guide-2024/img",
+    "3-Mechanics/CLI/books/players-handbook-2024",
+    "3-Mechanics/CLI/books/dungeon-masters-guide-2024",
+    "3-Mechanics/CLI/books",
+    "3-Mechanics/CLI/bestiary/undead/token",
+    "3-Mechanics/CLI/bestiary/undead/img",
+    "0-Scratch Notes/Untitled.canvas",
+    "Untitled.canvas"
+  ]
+}
