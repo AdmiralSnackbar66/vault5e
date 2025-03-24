@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "0-Obsidian TTRPG Tutorial/0-Obsidian TTRPG Tutorial.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -199,7 +199,8 @@
   },
   "active": "20ec2c6ae875ae7c",
   "lastOpenFiles": [
-    "1-DM Toolkit/DM Board.md",
-    "0-Obsidian TTRPG Tutorial/0-Obsidian TTRPG Tutorial.md"
+    "1-DM Toolkit/Home.md",
+    "0-Obsidian TTRPG Tutorial/0-Obsidian TTRPG Tutorial.md",
+    "1-DM Toolkit/DM Board.md"
   ]
 }
