@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-Obsidian TTRPG Tutorial/0-Obsidian TTRPG Tutorial.md",
-                "mode": "source",
-                "source": false
+                "file": "1-Party/Strixhaven Party/Elvis Parsley.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "0-Obsidian TTRPG Tutorial"
+              "title": "Elvis Parsley"
             }
           }
         ]
@@ -112,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "0-Obsidian TTRPG Tutorial/0-Obsidian TTRPG Tutorial.md",
+            "file": "1-Party/Strixhaven Party/Elvis Parsley.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -189,7 +189,19 @@
   },
   "active": "20ec2c6ae875ae7c",
   "lastOpenFiles": [
+    "1-Party/Strixhaven Party/Strixhaven Party.md",
+    "1-Party/Strixhaven Party/Elvis Parsley.md",
+    "1-Party/Example Party 1/Bob.md",
+    "1-Party/Example Party 2/Example Party 2.md",
+    "1-Party/Example Party 1/Example Party 1.md",
+    "2-World/Lampoteuo/Lampoteuo City/Lampoteuo City.md",
+    "2-World/Strixhaven/Strixhaven.md",
+    "1-Party/Strixhaven Party",
     "1-DM Toolkit/DM Board.md",
+    "2-World/Strixhaven",
+    "1-Party/Example Party 2/Jane.md",
+    "1-DM Toolkit/Home.md",
+    "2-World/Lampoteuo/Lampoteuo.md",
     "0-Obsidian TTRPG Tutorial/0-Obsidian TTRPG Tutorial.md"
   ]
 }
