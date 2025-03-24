@@ -2,7 +2,14 @@
 obsidianUIMode: preview
 NoteIcon: player
 NoteStatus: New
-char_location:
+char_location: 
+Role: Player
+Status: Active
+Player: Eddie
+Race:
+  - Elf
+Class:
+  - Bard
 ---
 
 

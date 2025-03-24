@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-World/Arcavios/Strixhaven University.md",
+                "file": "1-Party/Strixhaven Party/Elvis Parsley.md",
                 "mode": "preview",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Strixhaven University"
+              "title": "Elvis Parsley"
             }
           }
         ]
@@ -199,13 +199,14 @@
   },
   "active": "20ec2c6ae875ae7c",
   "lastOpenFiles": [
+    "1-Party/Strixhaven Party/Strixhaven Party.md",
+    "1-Party/Strixhaven Party/Elvis Parsley.md",
+    "2-World/Arcavios/Strixhaven University/Strixhaven University.md",
     "2-World/Arcavios/Arcavios.md",
     "2-World/Strixhaven University.md",
     "2-World/Lampoteuo/Lampoteuo City/Noble District/Lucky Grain Inn/Lucky Grain Inn.md",
     "2-World/Lampoteuo/Lampoteuo.md",
     "2-World/Arcavios/Strixhaven University",
-    "1-Party/Strixhaven Party/Elvis Parsley.md",
-    "1-Party/Strixhaven Party/Strixhaven Party.md",
     "1-Party/Example Party 1/Bob.md",
     "1-Party/Example Party 2/Example Party 2.md",
     "1-Party/Example Party 1/Example Party 1.md",
