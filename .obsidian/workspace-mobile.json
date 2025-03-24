@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-Party/Strixhaven Party/Elvis Parsley.md",
-                "mode": "preview",
-                "source": true
+                "file": "2-World/Strixhaven/Strixhaven.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Elvis Parsley"
+              "title": "Strixhaven"
             }
           }
         ]
@@ -197,10 +197,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "20ec2c6ae875ae7c",
+  "active": "dfe55cf897d09775",
   "lastOpenFiles": [
-    "1-Party/Strixhaven Party/Strixhaven Party.md",
+    "2-World/Lampoteuo/Lampoteuo.md",
+    "2-World/Strixhaven/Strixhaven University",
     "1-Party/Strixhaven Party/Elvis Parsley.md",
+    "1-Party/Strixhaven Party/Strixhaven Party.md",
     "1-Party/Example Party 1/Bob.md",
     "1-Party/Example Party 2/Example Party 2.md",
     "1-Party/Example Party 1/Example Party 1.md",
@@ -211,7 +213,6 @@
     "2-World/Strixhaven",
     "1-Party/Example Party 2/Jane.md",
     "1-DM Toolkit/Home.md",
-    "2-World/Lampoteuo/Lampoteuo.md",
     "0-Obsidian TTRPG Tutorial/0-Obsidian TTRPG Tutorial.md"
   ]
 }
