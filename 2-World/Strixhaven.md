@@ -3,18 +3,19 @@ NoteIcon: settlement
 tags:
   - Category/Settlement
 Community-Size: Outpost
-Alignment: Chaotic
+Alignment: Neutral
 Government: Autocracy
 type: Settlement
 politics: Lordship
 leader: 
 guildsgroups:
-  - Thieves Guild 1
-  - Cult 1
-  - Guiled 1
+  - Silverquill
+  - Prismari
+  - Witherbloom
+  - Quandrix
+  - Lorehold
 region:
   - This area
-  - Of this area
 size: Small city
 population: 0
 commonraces:
