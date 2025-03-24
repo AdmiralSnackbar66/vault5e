@@ -139,12 +139,42 @@
           "icon": "lucide-list",
           "title": "Outline"
         }
+      },
+      {
+        "id": "e20c1090d910f22f",
+        "type": "leaf",
+        "state": {
+          "type": "initiative-tracker-view",
+          "state": {},
+          "icon": "initiative-tracker",
+          "title": "Initiative Tracker"
+        }
+      },
+      {
+        "id": "f60aacca7c8fcf91",
+        "type": "leaf",
+        "state": {
+          "type": "DICE_ROLLER_VIEW",
+          "state": {},
+          "icon": "dices",
+          "title": "Dice Tray"
+        }
       }
     ],
     "currentTab": 0
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian42-brat:BRAT": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:Create new board": false,
+      "helpmate:HelpMate": false,
+      "solo-rpg-toolkit:Solo RPG Toolkit": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
