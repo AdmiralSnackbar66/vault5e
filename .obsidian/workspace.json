@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "43603b4f4e92f907",
+        "id": "301000287f99c2f1",
         "type": "tabs",
         "children": [
           {
-            "id": "743fb8fb740901ff",
+            "id": "00b06bd3b2963d4e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "z_Templates/4_Markdown/Insert Map (Simplified Template).md",
-                "mode": "source",
-                "source": true
+                "file": "1-Party/Example Party 2/Example Party 2.md",
+                "mode": "preview",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Insert Map (Simplified Template)"
+              "title": "Example Party 2"
             }
           }
         ]
@@ -121,98 +121,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "01866bcbc2fd8a19",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "1-DM Toolkit/Home.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Home"
-            }
-          },
-          {
-            "id": "505cdf32bf6b016b",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "0-Scratch Notes/New World.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": false
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from New World"
-            }
-          },
-          {
-            "id": "e0476cfc571d360e",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "734965fc2bb6a962",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "1-DM Toolkit/Home.md"
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Home"
-            }
-          },
-          {
-            "id": "89c85e720490d000",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
-            }
-          },
-          {
-            "id": "082d00d22d181097",
-            "type": "leaf",
-            "state": {
-              "type": "help-mate",
-              "state": {},
-              "icon": "life-buoy",
-              "title": "HelpMate"
-            }
-          },
-          {
-            "id": "1d54d43c1cb242fe",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "All properties"
-            }
-          },
-          {
             "id": "bb21e6fb9beae31a",
             "type": "leaf",
             "state": {
@@ -241,9 +149,18 @@
               "icon": "dices",
               "title": "Dice Tray"
             }
+          },
+          {
+            "id": "8f0e0e5d0d3e16e5",
+            "type": "leaf",
+            "state": {
+              "type": "intiative-tracker-encounter-builder",
+              "state": [],
+              "icon": "intiative-tracker-encounter-builder",
+              "title": "Encounter Builder"
+            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -271,54 +188,54 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "743fb8fb740901ff",
+  "active": "00b06bd3b2963d4e",
   "lastOpenFiles": [
-    "0-Scratch Notes/Add Random Notes Here.md",
-    "0-Scratch Notes/Random Dungeon.md",
-    "z_Templates/TemplateNPC.md",
-    "z_Assets/download 1.gif",
-    "1-DM Toolkit/Travel Calculator.md",
-    "2-World/Ruins of The Twilight Palace.md",
-    "2-World/Lampoteuo/The Wound/The Wound.md",
-    "2-World/Lampoteuo/Lampoteuo City/Lampoteuo City.md",
-    "2-World/Lampoteuo/Creepers Cave/Creepers Cave.md",
-    "2-World/Lampoteuo/Lampoteuo.md",
-    "2-World/Logger's Camp.md",
-    "2-World/New Home Town.md",
-    "2-World/Test.md",
-    "z_Templates/TemplateSettlement.md",
-    "1-Party/Example Party 1/Bob.md",
-    "2-Campaign/Quests/Warn the Midwife.md",
-    "2-Campaign/Quests/Beat the Goblin.md",
-    "z_Templates/How To Create New Templates.md",
-    "z_Templates/Text Generator Templates/Session Summary.md",
-    "z_Templates/Text Generator Templates/Generate Weaponry.md",
-    "z_Templates/Text Generator Templates/Generate Spell Book.md",
-    "z_Templates/Text Generator Templates/Generate Sly Flourish Adventure.md",
-    "z_Templates/Text Generator Templates/Generate Random Table.md",
-    "z_Templates/Text Generator Templates/Generate General Store.md",
-    "z_Templates/Text Generator Templates/Generate Inn.md",
-    "z_Templates/Text Generator Templates/Generate Job Board.md",
-    "z_Templates/Text Generator Templates/Generate Magic Store.md",
-    "z_Templates/Text Generator Templates",
-    "z_Assets/download.gif",
-    "z_Assets/main.js",
-    "2-World/Lampoteuo/The Screaming Tree",
-    "3-Mechanics/CLI/books/players-handbook-2024/img/credits3.webp",
-    "3-Mechanics/CLI/books/players-handbook-2024/img/credits2.webp",
-    "3-Mechanics/CLI/books/players-handbook-2024/img/credits.webp",
-    "3-Mechanics/CLI/books/players-handbook-2024/img/246-12-001-dungeon-border.webp",
-    "3-Mechanics/CLI/books/players-handbook-2024/img/231-10-001-the-multiverse.webp",
-    "3-Mechanics/CLI/books/players-handbook-2024/img/183-08-003-areas-of-effect.webp",
-    "3-Mechanics/CLI/books/players-handbook-2024/img/182-08-002-aasimar-wizard.webp",
-    "3-Mechanics/CLI/books/players-handbook-2024/img/181-08-001-jallarzi-mordenkainen-bigby.webp",
-    "3-Mechanics/CLI/books/players-handbook-2024/img",
-    "3-Mechanics/CLI/books/dungeon-masters-guide-2024/img",
-    "3-Mechanics/CLI/books/players-handbook-2024",
-    "3-Mechanics/CLI/books/dungeon-masters-guide-2024",
-    "3-Mechanics/CLI/books",
-    "3-Mechanics/CLI/bestiary/undead/token",
-    "3-Mechanics/CLI/bestiary/undead/img",
+    "1-Party/Example Party 2/Dragonfacee.md",
+    "1-Party/Example Party 2/Example Party 2.md",
+    "1-DM Toolkit/Home.md",
+    "1-Party/Strixhaven Party/Strixhaven Party.md",
+    "1-Party/Strixhaven Party/Elvis Parsley.md",
+    "3-Mechanics/CLI/bestiary/monstrosity/mimic-xmm.md",
+    "3-Mechanics/CLI/books/monster-manual-2025/2-monsters-a-to-z.md",
+    "content/blog/posts/A farewell to Disney... .md",
+    "content/Our Disney Adventure.md",
+    "3-Mechanics/CLI/bestiary/monstrosity/axe-beak-xmm.md",
+    "3-Mechanics/CLI/CLI.md",
+    "blog/posts.md",
+    "3-Mechanics/CLI/spells/mind-spike-xphb.md",
+    "3-Mechanics/CLI/spells/spells.md",
+    "3-Mechanics/CLI/books/players-handbook-2024/02-chapter-1-playing-the-game.md",
+    "3-Mechanics/CLI/books/players-handbook-2024/01-introduction-welcome-to-adventure.md",
+    "3-Mechanics/CLI/classes/druid-xphb-circle-of-the-land-xphb.md",
+    "3-Mechanics/CLI/classes/classes.md",
+    "3-Mechanics/CLI/backgrounds/backgrounds.md",
+    "3-Mechanics/CLI/bastions/bastions.md",
+    "3-Mechanics/CLI/bestiary/bestiary.md",
+    "3-Mechanics/CLI/books/monster-manual-2025/4-monster-lists.md",
+    "3-Mechanics/CLI/books/dungeon-masters-guide-2024/03-chapter-3-dms-toolbox.md",
+    "3-Mechanics/CLI/books/dungeon-masters-guide-2024/01-chapter-1-the-basics.md",
+    "3-Mechanics/CLI/bestiary/ooze/token/psychic-gray-ooze-xmm.webp",
+    "3-Mechanics/CLI/bestiary/ooze/token/ochre-jelly-xmm.webp",
+    "3-Mechanics/CLI/bestiary/ooze/token/gelatinous-cube-xmm.webp",
+    "3-Mechanics/CLI/bestiary/ooze/token/gray-ooze-xmm.webp",
+    "3-Mechanics/CLI/bestiary/ooze/token/black-pudding-xmm.webp",
+    "3-Mechanics/CLI/bestiary/ooze/token/blob-of-annihilation-xmm.webp",
+    "3-Mechanics/CLI/bestiary/ooze/img/gray-oozes.webp",
+    "3-Mechanics/CLI/bestiary/ooze/img/ochre-jelly.webp",
+    "3-Mechanics/CLI/bestiary/ooze/img/blob-of-annihilation.webp",
+    "3-Mechanics/CLI/bestiary/ooze/img/black-pudding.webp",
+    "3-Mechanics/CLI/bestiary/ooze/ooze.md",
+    "3-Mechanics/CLI/bestiary/ooze/token",
+    "3-Mechanics/CLI/bestiary/ooze/psychic-gray-ooze-xmm.md",
+    "3-Mechanics/CLI/bestiary/ooze/img",
+    "3-Mechanics/CLI/bestiary/ooze",
+    "3-Mechanics/CLI/vehicles/token",
+    "3-Mechanics/CLI/vehicles/img",
+    "3-Mechanics/CLI/vehicles",
+    "3-Mechanics/CLI/traps-hazards/img",
+    "3-Mechanics/CLI/traps-hazards",
+    "3-Mechanics/CLI/bestiary/token",
+    "3-Mechanics/CLI/tables",
     "0-Scratch Notes/Untitled.canvas",
     "Untitled.canvas"
   ]
