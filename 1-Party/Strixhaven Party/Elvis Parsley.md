@@ -1,78 +1,28 @@
 ---
-obsidianUIMode: preview
 NoteIcon: player
-NoteStatus: New
-char_location: 
-Role: Player
-Status: Active
+aliases:
+  - Elvis
+tags:
+  - player
 Player: Eddie
-Race:
-  - Elf
+Role: Player
 Class:
   - Bard
+Race:
+  - Elf
+level: 1
+hp: 9
+ac: 14
+modifier: 2
+pasperc: 13
+Status: Active
+PlayerKnownLanguages:
+  - Common
+  - Common Sign Language
+  - Dwarvish
+  - Elvish
 ---
 
-
-> [!column] Basic Details
->> [!info] Name
->> Home Location: `INPUT[suggester(optionQuery("2-World")):char_location]` 
->> Titles:
->> Gender: `INPUT[suggester(optionQuery("#New Character^GenderSelect")):char_gender]`
->> Race:
->> Age:
->> Height:
->> Weight:
->> Date of Birth:
->> Date of Death:
->
->> [!note] Column 3
->> ![[Pasted image 20240607151510.png|300]]
-
-
-
-| Gender |
-| ------ |
-| Male   |
-| Female |
-^GenderSelect
-
-
-
-#### Description
-`Enter textual description here`
-
-> [!NOTE]- Relationships
-> Parents:
-> Partner:
-> Children:
-> Friends:
-> Enemies:
-
-> [!NOTE]- Role Details
-> Occupation:
-
-> [!NOTE]- Life Details
-> Contents
-
-> [!NOTE] Equipment and Belongings
-> Contents
-
-
-Place of Residence
-Place of Origin
-Place of Demise
-
-Traits and Characteristics:
-Unique/Unusual Features
-
-Stats:
-
-Equipment:
-Wealth:
-Known Skills:
-Known Spells:
-
-Known Languages:
-Known Magical Teachings:
-Known Technlogy/Science:
-
+```custom-frames
+frame:Elvis Parsley - DND Beyond
+```

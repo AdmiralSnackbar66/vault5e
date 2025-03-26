@@ -1,11 +1,11 @@
 ---
 questObtained: 2024-04-05
 questStatus: Complete
-questGiver: "[[3-Mechanics/NPCs/Wilma.md|Wilma]]"
+questGiver: "[[Wilma|Wilma]]"
 questLocationObtained: "[[2-World/Lampoteuo/Lampoteuo.md|Lampoteuo]]"
 questSessionObtained: "[[1-Session Journals/2000-01-01.md|2000-01-01]]"
 questNotes: 
-questLootAvail: "[[3-Mechanics/Items/Broken Stick.md|Broken Stick]]"
+questLootAvail: "[[Broken Stick|Broken Stick]]"
 questLookEarned: 
 NoteIcon: quest
 obsidianUIMode: preview

@@ -32,6 +32,42 @@
       "zoomLevel": 1,
       "forceIframe": false,
       "customCss": ""
+    },
+    {
+      "url": "https://www.dndbeyond.com/characters/133796957/fE8XZO",
+      "displayName": "Elvis Parsley - DND Beyond",
+      "icon": "user-round",
+      "hideOnMobile": false,
+      "addRibbonIcon": true,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": "",
+      "customJs": ""
+    },
+    {
+      "url": "https://www.dndbeyond.com/characters/143735783/iDqFE4",
+      "displayName": "Roleck Nevari - DND Beyond",
+      "icon": "user-round",
+      "hideOnMobile": false,
+      "addRibbonIcon": false,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": "",
+      "customJs": ""
+    },
+    {
+      "url": "https://www.dndbeyond.com/characters/140641721/ewSxmJ",
+      "displayName": "Zolon Orielson - DND Beyond",
+      "icon": "user-round",
+      "hideOnMobile": false,
+      "addRibbonIcon": false,
+      "openInCenter": false,
+      "zoomLevel": 1,
+      "forceIframe": false,
+      "customCss": "",
+      "customJs": ""
     }
   ],
   "padding": 5

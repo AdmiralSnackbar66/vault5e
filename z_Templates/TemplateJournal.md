@@ -35,14 +35,14 @@ _%>
 
 %% Keep track of who turned up. %%
 
-- [[Bob]] 
+- [[Roleck Nevari]] 
 - [[Fred]] 
 
 ## Absent
 
 %% Keep track of who didn't turn up. %%
 
-- [[Bob]] 
+- [[Roleck Nevari]] 
 - [[Fred]] 
 
 # Session Overview

@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "301000287f99c2f1",
+        "id": "f0ff650684675516",
         "type": "tabs",
         "children": [
           {
-            "id": "00b06bd3b2963d4e",
+            "id": "067374f14ebbd78b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-Party/Example Party 2/Example Party 2.md",
+                "file": "1-Party/Strixhaven Party/Strixhaven Party.md",
                 "mode": "preview",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Example Party 2"
+              "title": "Strixhaven Party"
             }
           }
         ]
@@ -77,7 +77,6 @@
           {
             "id": "2e6355ae312b2c82",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -85,7 +84,6 @@
                 "mode": "preview",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
               "title": "DnD5e-SideScreen-2014"
             }
@@ -117,31 +115,11 @@
     "type": "split",
     "children": [
       {
-        "id": "09384058bb1c4e72",
+        "id": "a8bf1496067ea875",
         "type": "tabs",
         "children": [
           {
-            "id": "bb21e6fb9beae31a",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {},
-              "icon": "initiative-tracker",
-              "title": "Initiative Tracker"
-            }
-          },
-          {
-            "id": "c8c0bd3a84d4d5f1",
-            "type": "leaf",
-            "state": {
-              "type": "MAIN_VIEW",
-              "state": {},
-              "icon": "srt-ribbon",
-              "title": "Solo RPG Toolkit"
-            }
-          },
-          {
-            "id": "d2b8e91a0b4aa27a",
+            "id": "f57c010ed5f84d8d",
             "type": "leaf",
             "state": {
               "type": "DICE_ROLLER_VIEW",
@@ -149,22 +127,13 @@
               "icon": "dices",
               "title": "Dice Tray"
             }
-          },
-          {
-            "id": "8f0e0e5d0d3e16e5",
-            "type": "leaf",
-            "state": {
-              "type": "intiative-tracker-encounter-builder",
-              "state": [],
-              "icon": "intiative-tracker-encounter-builder",
-              "title": "Encounter Builder"
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 435.5
+    "width": 435.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,54 +157,54 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "00b06bd3b2963d4e",
+  "active": "067374f14ebbd78b",
   "lastOpenFiles": [
-    "1-Party/Example Party 2/Dragonfacee.md",
-    "1-Party/Example Party 2/Example Party 2.md",
-    "1-DM Toolkit/Home.md",
-    "1-Party/Strixhaven Party/Strixhaven Party.md",
+    "0-Scratch Notes/Random Dungeon.md",
+    "2-World/Lampoteuo/Lampoteuo City/Lampoteuo City.md",
+    "2-World/Test.md",
+    "1-Session Journals/2023-10-26.md",
+    "1-Party/Strixhaven Party/Roleck Nevari.md",
     "1-Party/Strixhaven Party/Elvis Parsley.md",
-    "3-Mechanics/CLI/bestiary/monstrosity/mimic-xmm.md",
-    "3-Mechanics/CLI/books/monster-manual-2025/2-monsters-a-to-z.md",
+    "1-Party/Strixhaven Party/Strixhaven Party.md",
+    "1-Party/Strixhaven Party/Zolon Orielson.md",
+    "1-DM Toolkit/Home.md",
+    "z_Templates/TemplatePlayer.md",
+    "z_Templates/new.md",
+    "0-Scratch Notes/TEST AI/Untitled.md",
+    "0-Scratch Notes/Add Random Notes Here.md",
+    "1-DM Toolkit/DM Board.md",
+    "2-Mechanics/CLI/CLI.md",
+    "0-Scratch Notes/TEST AI",
+    "1-Session Journals/2000-01-01.md",
+    "1-Party/Example Party 1/Example Party 1.md",
+    "1-Party/Example Party 2/Example Party 2.md",
+    "1-Party/Example Party 2/Dragonfacee.md",
+    "2-Mechanics/CLI/bestiary/monstrosity/mimic-xmm.md",
+    "2-Mechanics/CLI/books/monster-manual-2025/2-monsters-a-to-z.md",
     "content/blog/posts/A farewell to Disney... .md",
     "content/Our Disney Adventure.md",
-    "3-Mechanics/CLI/bestiary/monstrosity/axe-beak-xmm.md",
-    "3-Mechanics/CLI/CLI.md",
+    "2-Mechanics/CLI/bestiary/monstrosity/axe-beak-xmm.md",
     "blog/posts.md",
-    "3-Mechanics/CLI/spells/mind-spike-xphb.md",
-    "3-Mechanics/CLI/spells/spells.md",
-    "3-Mechanics/CLI/books/players-handbook-2024/02-chapter-1-playing-the-game.md",
-    "3-Mechanics/CLI/books/players-handbook-2024/01-introduction-welcome-to-adventure.md",
-    "3-Mechanics/CLI/classes/druid-xphb-circle-of-the-land-xphb.md",
-    "3-Mechanics/CLI/classes/classes.md",
-    "3-Mechanics/CLI/backgrounds/backgrounds.md",
-    "3-Mechanics/CLI/bastions/bastions.md",
-    "3-Mechanics/CLI/bestiary/bestiary.md",
-    "3-Mechanics/CLI/books/monster-manual-2025/4-monster-lists.md",
-    "3-Mechanics/CLI/books/dungeon-masters-guide-2024/03-chapter-3-dms-toolbox.md",
-    "3-Mechanics/CLI/books/dungeon-masters-guide-2024/01-chapter-1-the-basics.md",
-    "3-Mechanics/CLI/bestiary/ooze/token/psychic-gray-ooze-xmm.webp",
-    "3-Mechanics/CLI/bestiary/ooze/token/ochre-jelly-xmm.webp",
-    "3-Mechanics/CLI/bestiary/ooze/token/gelatinous-cube-xmm.webp",
-    "3-Mechanics/CLI/bestiary/ooze/token/gray-ooze-xmm.webp",
-    "3-Mechanics/CLI/bestiary/ooze/token/black-pudding-xmm.webp",
-    "3-Mechanics/CLI/bestiary/ooze/token/blob-of-annihilation-xmm.webp",
-    "3-Mechanics/CLI/bestiary/ooze/img/gray-oozes.webp",
-    "3-Mechanics/CLI/bestiary/ooze/img/ochre-jelly.webp",
-    "3-Mechanics/CLI/bestiary/ooze/img/blob-of-annihilation.webp",
-    "3-Mechanics/CLI/bestiary/ooze/img/black-pudding.webp",
-    "3-Mechanics/CLI/bestiary/ooze/ooze.md",
-    "3-Mechanics/CLI/bestiary/ooze/token",
-    "3-Mechanics/CLI/bestiary/ooze/psychic-gray-ooze-xmm.md",
-    "3-Mechanics/CLI/bestiary/ooze/img",
-    "3-Mechanics/CLI/bestiary/ooze",
-    "3-Mechanics/CLI/vehicles/token",
-    "3-Mechanics/CLI/vehicles/img",
-    "3-Mechanics/CLI/vehicles",
-    "3-Mechanics/CLI/traps-hazards/img",
-    "3-Mechanics/CLI/traps-hazards",
-    "3-Mechanics/CLI/bestiary/token",
-    "3-Mechanics/CLI/tables",
+    "2-Mechanics/CLI/spells/mind-spike-xphb.md",
+    "2-Mechanics/CLI/bestiary/ooze/token/psychic-gray-ooze-xmm.webp",
+    "2-Mechanics/CLI/bestiary/ooze/token/ochre-jelly-xmm.webp",
+    "2-Mechanics/CLI/bestiary/ooze/token/gelatinous-cube-xmm.webp",
+    "2-Mechanics/CLI/bestiary/ooze/token/gray-ooze-xmm.webp",
+    "2-Mechanics/CLI/bestiary/ooze/token/black-pudding-xmm.webp",
+    "2-Mechanics/CLI/bestiary/ooze/token/blob-of-annihilation-xmm.webp",
+    "2-Mechanics/CLI/bestiary/ooze/img/gray-oozes.webp",
+    "2-Mechanics/CLI/bestiary/ooze/img/ochre-jelly.webp",
+    "2-Mechanics/CLI/bestiary/ooze/img/blob-of-annihilation.webp",
+    "2-Mechanics/CLI/bestiary/ooze/img/black-pudding.webp",
+    "2-Mechanics/CLI/bestiary/ooze/token",
+    "2-Mechanics/CLI/bestiary/ooze/img",
+    "2-Mechanics/CLI/bestiary/ooze",
+    "2-Mechanics/CLI/vehicles/token",
+    "2-Mechanics/CLI/vehicles/img",
+    "2-Mechanics/CLI/vehicles",
+    "2-Mechanics/CLI/traps-hazards/img",
+    "2-Mechanics/CLI/traps-hazards",
+    "2-Mechanics/CLI/bestiary/token",
     "0-Scratch Notes/Untitled.canvas",
     "Untitled.canvas"
   ]
