@@ -199,6 +199,9 @@
   },
   "active": "20ec2c6ae875ae7c",
   "lastOpenFiles": [
+    "3-Mechanics/CLI/CLI.md",
+    "1-Party/Strixhaven Party/Strixhaven Party.md",
+    "1-Session Journals/2000-01-01.md",
     "node_modules/mdast-util-mdx-jsx/license",
     "node_modules/@shuding/opentype.js/src/features/latn/latinLigatures.js",
     "node_modules/d3-ease/src/sin.js",
@@ -211,7 +214,6 @@
     "3-Mechanics/CLI/items/potion-of-gaseous-form-xdmg.md",
     "3-Mechanics/CLI/items/img/cube-of-summoning.webp",
     "node_modules/mathjax-full/es5/input/tex/extensions/upgreek.js",
-    "node_modules/shiki/dist/langs/javascript.mjs",
     "3-Mechanics/CLI/feats/boon-of-speed-xphb.md",
     "3-Mechanics/CLI/bestiary/dragon/token/ancient-white-dragon-xmm.webp",
     "3-Mechanics/CLI/items/universal-solvent-xdmg.md",
@@ -242,8 +244,6 @@
     "3-Mechanics/CLI/spells/vampiric-touch-xphb.md",
     "3-Mechanics/CLI/bestiary/humanoid/astral-elf-star-priest-bam.md",
     "3-Mechanics/CLI/bestiary/monstrosity/ssurran-defiler-bam.md",
-    "3-Mechanics/CLI/items/bead-of-nourishment-xdmg.md",
-    "3-Mechanics/CLI/tables/guest-xdmg.md",
-    "3-Mechanics/CLI/spells/true-polymorph-xphb.md"
+    "3-Mechanics/CLI/items/bead-of-nourishment-xdmg.md"
   ]
 }
